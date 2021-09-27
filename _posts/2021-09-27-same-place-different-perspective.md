@@ -12,3 +12,5 @@ tags:
   - Photography
 ---
 This will be about how my perspecttive of london has shifted after being away and then coming back with a new perspective oth figuarative and literal.
+
+To spend a lifetime in place, just to leave one Summer isn't an easy feat, especially when you have no idea if youll return or if theres any motivation in doing so. Pastures are not a
