@@ -2,7 +2,7 @@
 layout: post
 title: Same Place, Different Perspective
 date: 2021-09-27T08:57:00.762Z
-image: ../uploads/dji_0655-enhanced.jpg
+image: ../uploads/deuce.jpg
 title_color: "#ffffff"
 caption: The river thames separated between Thames path walk & wapping boatyard.
   Taken in the evening with a light sunset ensuing. With a backdrop of Canary
