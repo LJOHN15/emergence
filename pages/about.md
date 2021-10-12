@@ -9,7 +9,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Born in the early 90s in Tottenham, North London, Lester John fell in love with the concept of writing at an early age. It became a frequent pastime to get lost in the endless pages of his favourite novels and to marvel at the ability of his favourite authors to world build. His passion first reared its head with his poetry, often performed in front of his class, or being called dup to the front to narrate to his peers whilst his teacher had a coffee break.
 
