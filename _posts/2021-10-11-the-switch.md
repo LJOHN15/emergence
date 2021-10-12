@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Switch
+title: "The Switch "
 date: 2021-10-12T16:48:31.098Z
 image: ../uploads/vanguard-2.jpg
 title_color: "#ffffff"
@@ -14,6 +14,8 @@ tags:
   - Life
   - Personal
 ---
+![Furzton Lake](../uploads/dji_0655-enhanced.jpg "Furzton Lake Aerial")
+
 #### The Adjustment To New Surroundings
 
 My first tangible experience of the switch happened on my first morning in Milton Keynes. I opened my eyes and there was silence, save maybe for a few birds sharing their song and the breeze encompassing the treetops with audible the absence of anything else. Not the chatter I was used to from the streets below, not the sound of horns and traffic nor the sounds of sirens, a sound that had long since become unnoticed to my ears. The silence was deafening, it was all I could hear. I couldn't remember the last time I had this much space to hear my thoughts in clarity. The silence began to subside, though still present, my ears adjusted to hearing the subtle sounds they had previously overlooked.
