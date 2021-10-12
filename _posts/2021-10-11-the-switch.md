@@ -14,7 +14,7 @@ tags:
   - Life
   - Personal
 ---
-![Furzton Lake](../uploads/dji_0655-enhanced.jpg "Furzton Lake Aerial")
+![Bagley Wood](../uploads/middle-parting.jpg "Bagley Wood Aerial")
 
 #### The Adjustment To New Surroundings
 
