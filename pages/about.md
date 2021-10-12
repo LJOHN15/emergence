@@ -13,6 +13,8 @@ show: true
 ---
 Born in the early 90s in Tottenham, North London, Lester John fell in love with the concept of writing at an early age. It became a frequent pastime to get lost in the endless pages of his favourite novels and to marvel at the ability of his favourite authors to world build. His passion first reared its head with his poetry, often performed in front of his class, or being called dup to the front to narrate to his peers whilst his teacher had a coffee break.
 
+![Tiverton Estate](https://www.flickriver.com/photos/nicohogg/27815643601/ "The Beginning ")
+
 He's lived many lives for one so young, giving him a scope on life that most people fail to attain so early on in life. These experiences are what he draws his inspiration from and utilises these to convey his stories to those who may otherwise find it difficult to navigate or unrelatable given their particular experience or lack thereof in life.
 His passions include etymology, social studies, music, photography, aviation and military engineering and architecture.
 
