@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Same Place, Different Perspective
+title: The Leap
 date: 2021-09-27T08:57:00.762Z
 image: ../uploads/deuce.jpg
 title_color: "#ffffff"
@@ -15,7 +15,7 @@ tags:
   - Culture
   - Life
 ---
-### Off To A Good Start?
+#### Off To A Good Start?
 
 To spend a lifetime in place, just to leave one Summer is no easy feat, especially when you have no real idea of what lies beyond your limited horizon. Sometimes though, our need for growth outweighs the space we have to attain it. Sometimes the thought of our stagnation quells the uncertainty of changing our surroundings. Sometimes the idea of what could be over the horizon is so much more satiating than what our current view has to offer.
 
