@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: Whats This All About?
 image: ../uploads/rocky-4-3.jpg
-subtitle: About the Author
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -17,6 +17,8 @@ Born in the early 90s in Tottenham, North London, Lester John fell in love with 
 
 He's lived many lives for one so young, giving him a scope on life that most people fail to attain so early on in life. These experiences are what he draws his inspiration from and utilises these to convey his stories to those who may otherwise find it difficult to navigate or unrelatable given their particular experience or lack thereof in life.
 His passions include etymology, social studies, music, photography, aviation and military engineering and architecture.
+
+Last year he acquired a drone, this was at a time when the world around him had grown tiresome, one he felt constricted in. This new tool of aerial photography invigored him and imbued him with a new layer of curiosity. A new found sense of appreciation for the world seen and unseen developed, since then he has gone out of his way to look at things from different perspectives. 
 
 This blog will detail his adjustment to living outside of London for the first time as well as his experiences of returning back to London after a hiatus, the nuances noticed and the things he’s learned to appreciate as well as despise about both his new and old home. The people met, friends made, and relationships built. It will detail the importance of forcing yourself to flourish even if its not a comfortable process.
 
