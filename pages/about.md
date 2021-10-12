@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: Whats This All About?
 image: ../uploads/rocky-4-3.jpg
-subtitle: About the Author
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
