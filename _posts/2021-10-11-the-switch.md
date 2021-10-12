@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Switch
-date: 2021-10-11T12:16:58.276Z
+date: 2021-10-12T16:48:31.098Z
 image: ../uploads/vanguard-2.jpg
 title_color: "#ffffff"
 caption: '"Sunset illuminated trees with red leaves arranged in a horizontal
