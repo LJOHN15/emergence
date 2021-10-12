@@ -15,7 +15,7 @@ tags:
   - Culture
   - Life
 ---
-### This article will be about how my perspective of London has shifted after being away and later returning coming back with a new perspective both figurative and literal.
+### Off To A Good Start?
 
 To spend a lifetime in place, just to leave one Summer is no easy feat, especially when you have no real idea of what lies beyond your limited horizon. Sometimes though, our need for growth outweighs the space we have to attain it. Sometimes the thought of our stagnation quells the uncertainty of changing our surroundings. Sometimes the idea of what could be over the horizon is so much more satiating than what our current view has to offer.
 
