@@ -12,6 +12,8 @@ tags:
   - Architecture
   - Buildings
   - Photography
+  - Culture
+  - Life
 ---
 ### This article will be about how my perspective of London has shifted after being away and later returning coming back with a new perspective both figurative and literal.
 
