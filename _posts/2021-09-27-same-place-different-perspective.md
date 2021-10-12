@@ -13,8 +13,6 @@ tags:
   - Buildings
   - Photography
 ---
-# The Great Departure
-
 ### This article will be about how my perspective of London has shifted after being away and later returning coming back with a new perspective both figurative and literal.
 
 To spend a lifetime in place, just to leave one Summer is no easy feat, especially when you have no real idea of what lies beyond your limited horizon. Sometimes though, our need for growth outweighs the space we have to attain it. Sometimes the thought of our stagnation quells the uncertainty of changing our surroundings. Sometimes the idea of what could be over the horizon is so much more satiating than what our current view has to offer.
@@ -27,4 +25,4 @@ This lake was deceptively diminutive on google maps, in the same way that expect
 
 Once I finally figured out the orientation of the screenshot was incorrect I managed to find myself heading back towards civilization. Honestly, I got lucky on that journey. I contemplated turning back multiple times, maybe I should have. But managing to find my way home in an unfamiliar place without the use of technology filled me with a sense of confidence and independence I hadn't yet experienced.
 
-I cant explain how I felt when I finally saw a road I recognised. Its like all the expended energy, mental and physical was reimbursed with interest. I was invigored, interestingly the mishaps of the night actually catalysed an exploratory side of my character that was previously dormant. I went to bed that night excited at the prospects of the future and this place I had found myself in. 
+I cant explain how I felt when I finally saw a road I recognised. Its like all the expended energy, mental and physical was reimbursed with interest. I was invigored, interestingly the mishaps of the night actually catalysed an exploratory side of my character that was previously dormant. I went to bed that night excited at the prospects of the future and this place I had found myself in.
