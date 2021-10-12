@@ -14,7 +14,7 @@ tags:
   - Life
   - Personal
 ---
-### This piece will be about the first things I noticed on my arrival to a new place in comparison to the place I had just left.
+### The Adjustment To New Surroundings
 
 My first tangible experience of the switch happened on my first morning in Milton Keynes. I opened my eyes and there was silence, save maybe for a few birds sharing their song and the breeze encompassing the treetops with audible the absence of anything else. Not the chatter I was used to from the streets below, not the sound of horns and traffic nor the sounds of sirens, a sound that had long since become unnoticed to my ears. The silence was deafening, it was all I could hear. I couldn't remember the last time I had this much space to hear my thoughts in clarity. The silence began to subside, though still present, my ears adjusted to hearing the subtle sounds they had previously overlooked.
 
