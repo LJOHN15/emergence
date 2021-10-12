@@ -7,6 +7,12 @@ title_color: "#ffffff"
 caption: '"Sunset illuminated trees with red leaves arranged in a horizontal
   line (Vanguard by Lester John)"'
 comments: false
+tags:
+  - Culture
+  - Journalism
+  - Nature
+  - Life
+  - Personal
 ---
 ### This piece will be about the first things I noticed on my arrival to a new place in comparison to the place I had just left.
 
