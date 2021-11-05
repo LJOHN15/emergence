@@ -11,17 +11,14 @@ tags: null
 description: null
 show: true
 ---
-Born in the early 90s in Tottenham, North London, Lester John fell in love with the concept of writing at an early age. It became a frequent pastime to get lost in the endless pages of his favourite novels and to marvel at the ability of his favourite authors to world build. His passion first reared its head with his poetry, often performed in front of his class, or being called dup to the front to narrate to his peers whilst his teacher had a coffee break.
+Typography is an element of creativity that we see represented in every aspect of marketing, signage and all the other things we encounter on a day to day. This can differ from country to country, even smaller can be city to city. This blog will document my transition from one place to another as well as the differences in typography and design encountered along the way. I will also document the effects of these differences on myself as a consumer and the things I notice also as a designer and student of typography.
+
+
 
 ![Tiverton Estate](https://www.flickriver.com/photos/nicohogg/27815643601/ "The Beginning ")
 
-He's lived many lives for one so young, giving him a scope on life that most people fail to attain so early on in life. These experiences are what he draws his inspiration from and utilises these to convey his stories to those who may otherwise find it difficult to navigate or unrelatable given their particular experience or lack thereof in life.
-His passions include etymology, social studies, music, photography, aviation and military engineering and architecture.
 
-Last year he acquired a drone, this was at a time when the world around him had grown tiresome, one he felt constricted in. This new tool of aerial photography invigored him and imbued him with a new layer of curiosity. A new found sense of appreciation for the world seen and unseen developed, since then he has gone out of his way to look at things from different perspectives. 
 
-This blog will detail his adjustment to living outside of London for the first time as well as his experiences of returning back to London after a hiatus, the nuances noticed and the things he’s learned to appreciate as well as despise about both his new and old home. The people met, friends made, and relationships built. It will detail the importance of forcing yourself to flourish even if its not a comfortable process.
-
-Our journey will end with an explanation of how his mental health has been affected by the move, my temperament, and the way he processes and deals with situations. All of these aspects of his character altered by geography and the influences that come with moving to somewhere new.
+Our journey will end with an explanation of how his mental health has been affected by the move,  and how this switch in thought process allows me to notice elements of design that otherwise may go unnoticed. 
 
 ![Bagley Wood](../uploads/middle-parting.jpg "Bagley Wood")
