@@ -13,6 +13,4 @@ fixednavbar: true
 upzoom: true
 items:
   - name: About The Author
-    siteurl: emergence/aboutme/
-  - name: ",n , "
-    siteurl: emergence/aboutme/
+    siteurl: /aboutme/
