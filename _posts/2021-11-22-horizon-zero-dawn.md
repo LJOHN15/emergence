@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horizon Zero Dawn
+title: Horizon Zero Dawn - What truly lays on the horizon?
 date: 2021-11-22T17:36:12.997Z
 image: ../uploads/zero.jpg
 title_color: "#ffffff"
