@@ -8,9 +8,7 @@ bannerheight: 60vmax
 navbarheight: 55px
 logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
-gridlayout: true
+gridlayout: false
 fixednavbar: true
 upzoom: true
-items:
-  - name: About The Author
-    siteurl: /aboutme/
+items: []
