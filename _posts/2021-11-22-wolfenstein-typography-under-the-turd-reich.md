@@ -13,7 +13,7 @@ tags:
 ---
 #### Wolfenstein
 
-Wolfenstein is a what if title, what if the allies had lost WW2? what if the third Reich had executed his plans to his design unhindered? You are a soldier who’s been sent to assassinate Adolf Hitler, it’s a steampunk game so a lot of the technology in the game is old and clunky and yet somehow far beyond anything the 21st century is capable of creating. Imagery is very important in this particular title. Let’s see how this affects its typography.
+**Wolfenstein is a what if title, what if the allies had lost WW2? what if the third Reich had executed his plans to his design unhindered? You are a soldier who’s been sent to assassinate Adolf Hitler, it’s a steampunk game so a lot of the technology in the game is old and clunky and yet somehow far beyond anything the 21st century is capable of creating. Imagery is very important in this particular title. Let’s see how this affects its typography.**
 
 Wolfenstein uses a font that actually reinforces the elements of the game. It's like a young font attempting to look old. 
 
