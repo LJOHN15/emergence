@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wolfenstein - typography under the turd Reich
-date: 2021-11-22T17:32:24.883Z
+date: 2021-11-09T17:32:24.883Z
 image: ../uploads/wolf.jpg
 title_color: "#ffffff"
 caption: Wolfenstein Logo
