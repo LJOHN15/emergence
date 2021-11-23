@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://aboveitall.netlify.app"   #change this to yours
+url: "https://dungeonsndesign.netlify.app"   #change this to yours
 repository: LJOHN15/emergence
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
