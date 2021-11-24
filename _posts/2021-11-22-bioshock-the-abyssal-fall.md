@@ -2,7 +2,7 @@
 layout: post
 title: BioShock - The abyssal fall
 date: 2021-11-22T17:39:42.659Z
-image: ../uploads/bio.jpg
+image: ../uploads/bioshock-60-x-30-in-1-.gif
 title_color: "#ffffff"
 caption: Rusted Bioshock Logo
 comments: false
