@@ -2,7 +2,7 @@
 layout: post
 title: Wolfenstein - typography under the turd Reich
 date: 2021-11-09T17:32:24.883Z
-image: ../uploads/wolf.jpg
+image: https://img00.deviantart.net/b3d9/i/2014/014/a/f/wolfenstein_the_new_order_by_someelixer-d7263qn.jpg
 title_color: "#ffffff"
 caption: Wolfenstein Logo
 comments: false
