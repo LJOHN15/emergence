@@ -2,7 +2,7 @@
 layout: post
 title: Minecraft - tree + karate chop = wood
 date: 2021-10-05T16:48:31.098Z
-image: ../uploads/minecraft.png
+image: https://www.rosememoriallibrary.org/wp-content/uploads/2015/03/minecraft-logo.jpg
 title_color: "#ffffff"
 caption: Minecraft Logo
 comments: false
@@ -11,7 +11,7 @@ tags:
   - Fonts
   - Journalism
 ---
-![Bagley Wood](../uploads/middle-parting.jpg "Bagley Wood Aerial")
+![Bagley Wood]( "Bagley Wood Aerial")
 
 #### Minecraft
 
@@ -27,4 +27,3 @@ The title itself is extremely uniform in size, contrast, and weight. There are n
 The design of the font has utilised the use of cracks, chips, and gouges in the characters, indicating a lack of structural integrity which we can assume is a nod to mineshaft element of the game and real-life dangers of frequenting such places. The letter “A” in the title is a mob in the game called a creeper. This adds to the feeling of danger associated with the mineshafts due to its explosive unpredictable nature, the cracks in the title would become full blown rubble if the creeper chose to go off. The characters in the title are made of tessellated blocks, we can tell this by looking at the upper inner edges of the “M”.
 
 For me this is an example of great design. Its simplicity fuels the possibility of what it could be trying to insinuate without pushing it into your face, it’s a game of interpretation which is surely the beginnings of any great work of art?
-
