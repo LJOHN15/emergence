@@ -2,7 +2,7 @@
 layout: post
 title: Minecraft - tree + karate chop = wood
 date: 2021-10-05T16:48:31.098Z
-image: ../uploads/minecraft.png
+image: https://www.rosememoriallibrary.org/wp-content/uploads/2015/03/minecraft-logo.jpg
 title_color: "#ffffff"
 caption: Minecraft Logo
 comments: false
