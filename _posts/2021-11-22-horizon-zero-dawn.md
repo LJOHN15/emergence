@@ -2,7 +2,7 @@
 layout: post
 title: " "
 date: 2021-11-16T17:36:12.997Z
-image: ../uploads/bioshock.gif
+image: ../uploads/bioshock-60-x-30-in-.gif
 title_color: "#ffffff"
 caption: Horizon Zero Dawn Logo
 comments: false
