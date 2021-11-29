@@ -1,14 +1,14 @@
 title: Dungeons & Design
 description: A website with a blog
 footer_text: Copyright 2021 Lester John
-header_feature_image: ""
+header_feature_image: ../uploads/alberto-zanetti-x3esiiuz3fi-unsplash.jpg
 header_text: Welcome To The Dungeon
 header_text_color: "#eae7e7"
 bannerheight: 40vmax
 navbarheight: 55px
 logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items:
