@@ -11,8 +11,6 @@ tags:
   - Fonts
   - Journalism
 ---
-![Bagley Wood]( "Bagley Wood Aerial")
-
 #### Minecraft
 
 Minecraft is a game that seemingly came out of nowhere and found unprecedented success. Made in May 2009 It was deceptively simple on its conception. This simplicity created the possibility for some of the most complex builds and contraptions ever created in game, in any game. People discovered a love of architecture they didn’t know existed, huge communities were built and are thriving all these years later and crazier than this, is the idea that many of this generation’s architects had their humble beginnings in Minecraft.
