@@ -6,8 +6,8 @@ header_text: Welcome To The Dungeon
 header_text_color: "#eae7e7"
 bannerheight: 40vmax
 navbarheight: 55px
-logo: ../uploads/logo.png
-favicon: /uploads/favicon.ico
+logo: ../uploads/dungeons.png
+favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
 upzoom: true
