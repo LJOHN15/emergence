@@ -11,8 +11,6 @@ tags:
   - Fonts
   - Journalism
 ---
-![Norwood Square](https://www.bing.com/images/search?view=detailV2&ccid=Vw%2fKuEL9&id=BB26236B54BBE9693AFED95A91D2B20F7D2D3179&thid=OIP.Vw_KuEL919GZpSbyoeXw9gHaEK&mediaurl=https%3a%2f%2fclipground.com%2fimages%2fpokemon-logo-png-5.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.570fcab842fdd7d199a526f2a1e5f0f6%3frik%3deTEtfQ%252by0pFa2Q%26pid%3dImgRaw%26r%3d0&exph=2160&expw=3840&q=pokemon+logo+png&simid=608014008899423370&FORM=IRPRST&ck=5D98052693115F907C6EDF2F22EC4649&selectedIndex=0&ajaxhist=0&ajaxserp=0 "Norwood Square")
-
 #### Pokémon
 
 **Birthed in the early 90’s the Pokémon franchise is a household name in almost all parts of the world. This isn’t an easily maintained position when put up against the test of time and the flooding of new additions coming to our screens and handhelds.**
