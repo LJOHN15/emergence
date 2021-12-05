@@ -20,13 +20,12 @@ The typography makes excellent use of the concept of iconography. This is the id
 
 Using an Arial font, the designer hasn’t tried to wow with slick contrasting or impressive descenders. There are no serifs self-proclaiming their importance here. Instead, the use of kerning and the white space created from it catches the eye. The cap height is also equal to the x height for this title. The word “isolation” has what appears to be system glitches behind the characters. This can be representative of the stranded element of the game with the computer systems being in disarray. 
 
+The use of kerning here is notable, with the two characters from the word “isolation” being able to fit in the space between the individual characters of “Alien”. This gives the impression that while being alone is a big part of the game, an even bigger part would be the interaction with the antagonistic alien.
+
 ![](../uploads/alien-isolation-logo.png "Alien Typography")
 
-The use of kerning here is notable, with the two characters from the word “isolation” being able to fit in the space between the individual characters of “Alien”. 
-
-This gives the impression that while being alone is a big part of the game, an even bigger part would be the interaction with the antagonistic alien.
 The themes from the back of the case follow a white, green, and black palette. Typical of the alien franchise, these colours represent the acidity of the alien scourge, the black expanse of space and utilises a white font for contrast.
 
 #### Conclusion and Verdict
 
-Alien Isolation utilises its typography in clever ways, they stay true to the themes of the game and mimic the franchises colour palette. Altogether a 7.5/10
+Alien Isolation utilises its typography in clever ways, they stay true to the themes of the game and mimic the franchises colour palette. Altogether a 7.5/10.
