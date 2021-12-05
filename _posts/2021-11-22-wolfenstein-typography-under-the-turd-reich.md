@@ -33,4 +33,4 @@ It’s the shape of the font that appears violent, you’re greeted with a pleth
 
 #### Verdict and Conclusion
 
-This was an elegant use of typography in a game that otherwise neglects elegance, its a brutal visceral game, offset by its choices in design, this being one such example of such contrast. 6/10
+This was an elegant use of typography in a game that otherwise neglects elegance, its a brutal visceral game, offset by its choices in design, this being one such example of such contrast. 6/10.
