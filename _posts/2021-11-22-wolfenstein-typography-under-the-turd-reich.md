@@ -11,9 +11,13 @@ tags:
   - Fonts
   - Journalism
 ---
-#### Wolfenstein
+![](../uploads/wolfs.jpg)
+
+#### **The Theme**
 
 **Wolfenstein is a what if title, what if the allies had lost WW2? what if the third Reich had executed his plans to his design unhindered? You are a soldier who’s been sent to assassinate Adolf Hitler, it’s a steampunk game so a lot of the technology in the game is old and clunky and yet somehow far beyond anything the 21st century is capable of creating. Imagery is very important in this particular title. Let’s see how this affects its typography.**
+
+#### **The Typography**
 
 Wolfenstein uses a font that actually reinforces the elements of the game. It's like a young font attempting to look old. 
 
@@ -21,6 +25,12 @@ Managing to be both novel, elegant, and heavyweight there is no contrast between
 
 Pairing these details with the title it gives the feeling of a sweeping paintbrush, with long extended strokes, the uniform spacing of most of the characters is at odds with the elongated ascenders/descenders and the minimal spacing. This gives the idea of anything being possible. The title itself seems to be at odd with what it is. This flows through the whole game, its real but it isn’t. An alternate version of events.
 
+![](../uploads/wolf.jpg)
+
 The font being white suggests simplicity, minimalism, and neutrality. This is in direct odds of the game itself. It’s a complex mishmash of eccentricity, overkill and the taking of sides. It can be argued that the title is designed in such a way to off-guard the player or to suggest that the game is a blank slate until played by you.
 
 It’s the shape of the font that appears violent, you’re greeted with a plethora of sharp edges, the trailing descenders are almost like the trail of blood or some other liquid, there are no curves or delicate intricacies.
+
+#### Verdict and Conclusion
+
+This was an elegant use of typography in a game that otherwise neglects elegance, its a brutal visceral game, offset by its choices in design, this being one such example of such contrast. 6/10.
